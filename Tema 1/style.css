@@ -1,0 +1,64 @@
+.center {
+    padding: 170px 0;
+    text-align: center;
+}
+
+#firstSection {
+    background-color: #FF731D;
+    height: 500px;
+}
+
+#secondSection {
+    background-color: #FFF7E9;
+    height: 500px;
+}
+
+#thirdSection {
+    background-color: #5F9DF7;
+    height: 500px;
+}
+
+#fourthSection {
+    background-color: #FFF7E9;
+    height: 500px;
+}
+
+#lastSection {
+    background-color: #1746A2;
+}
+
+#Section1 {
+    font-style: oblique;
+    font-size: 30px;
+    text-align:center;
+    color: #FFF7E9;
+}
+
+#Section2 {
+    font-style: oblique;
+    font-size: 30px;
+    text-align:center;
+    color: #5F9DF7;
+}
+
+#Section3 {
+    font-style: oblique;
+    font-size: 30px;
+    text-align:center;
+    color: #FFF7E9;
+}
+
+#Section4 {
+    font-style: oblique;
+    font-size: 30px;
+    text-align:center;
+    color: #5F9DF7;
+}
+
+#SectionFooter {
+    font-style: oblique;
+    font-size: 30px;
+    text-align:center;
+    color: #FFF7E9;
+}
+
